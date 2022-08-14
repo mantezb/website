@@ -40,6 +40,7 @@ education:
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
 social:
 - icon: linkedin
+  icon_pack: fab
   link: https://www.linkedin.com/in/mantezb
 - icon: google-scholar
   icon_pack: ai
@@ -53,6 +54,9 @@ social:
 - icon: researchgate
   icon_pack: fab
   link: https://www.researchgate.net/profile/Mante-Zelvyte-2
+- icon: twitter
+  icon_pack: fab
+  link: https://twitter.com/mante_zb
 
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
