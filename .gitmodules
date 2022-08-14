@@ -1,4 +1,4 @@
 [submodule "public"]
 	path = public
-	url = https://github.com/albicaron/albicaron.github.io.git
-	branch = master
+	url = https://github.com/mantezb/mantezb.github.io.git
+	branch = main
