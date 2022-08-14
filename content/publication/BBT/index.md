@@ -2,7 +2,7 @@
 # Documentation: https://wowchemy.com/docs/managing-content/
 
 title: "Bayesian Backtesting for Counterparty Risk Models"
-authors: ["Mante Zelvyte", "Matthias Arnsdorf]
+authors: ["Mante Zelvyte", "Matthias Arnsdorf"]
 date: 2021-02-11T12:03:42+01:00
 doi: ""
 
@@ -36,7 +36,7 @@ featured: false
 #   icon_pack: fab
 #   icon: twitter
 
-url_pdf:https://ssrn.com/abstract=4026491
+url_pdf: https://ssrn.com/abstract=4026491
 url_dataset:
 url_poster:
 url_project:
